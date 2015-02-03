@@ -2,6 +2,7 @@
   "name": "ember-cli-fontello",
   "version": "0.0.1",
   "description": "An ember-cli addon for using fontello icons in Ember applications.",
+  "repository": "https://github.com/maysam-tayyeb/ember-cli-fontello",
   "directories": {
     "doc": "doc",
     "test": "tests"
