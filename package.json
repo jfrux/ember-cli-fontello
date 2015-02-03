@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-fontello",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "An ember-cli addon for using fontello icons in Ember applications.",
   "directories": {
     "doc": "doc",
@@ -35,7 +35,9 @@
     "glob": "^4.0.5"
   },
   "keywords": [
-    "ember-addon"
+    "ember-addon",
+    "ember-cli",
+    "fontello"
   ],
   "ember-addon": {
     "configPath": "tests/dummy/config"
