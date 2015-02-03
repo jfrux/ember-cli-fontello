@@ -1,8 +1,8 @@
 {
   "name": "ember-cli-fontello",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "An ember-cli addon for using fontello icons in Ember applications.",
-  "repository": "https://github.com/maysam-tayyeb/ember-cli-fontello",
+  "repository": "git://github.com/maysam-tayyeb/ember-cli-fontello.git",
   "directories": {
     "doc": "doc",
     "test": "tests"
@@ -16,11 +16,8 @@
   "engines": {
     "node": ">= 0.10.0"
   },
-  "author": "",
-  "license": {
-    "type": "MIT",
-    "url": "https://github.com/maysam-tayyeb/ember-cli-fontello/blob/master/LICENCE"
-  },
+  "author": "smt.jpi@gmail.com",
+  "license": "MIT",
   "devDependencies": {
     "broccoli-asset-rev": "^2.0.0",
     "broccoli-ember-hbs-template-compiler": "^1.6.1",
