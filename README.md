@@ -1,12 +1,20 @@
-# Ember-cli-fontello
+# ember-cli-fontello [![Ember Observer Score](http://emberobserver.com/badges/ember-cli-fontello.svg)](http://emberobserver.com/addons/ember-cli-fontello)
 
-An ember-cli addon for using Fontello icons in Ember applications.
+An ember-cli addon for using [Fontello icons](http://fontello.com/) in Ember applications.
 
 ## Installation
 
-* `git clone` this repository
-* `npm install`
-* `bower install`
+For Ember CLI >= `0.2.3`
+
+```
+ember install ember-cli-rework
+```
+
+For Ember CLI < `0.2.3`
+
+```
+ember install:addon ember-cli-rework
+```
 
 ## Running
 
@@ -23,3 +31,7 @@ An ember-cli addon for using Fontello icons in Ember applications.
 * `ember build`
 
 For more information on using ember-cli, visit [http://www.ember-cli.com/](http://www.ember-cli.com/).
+
+## License
+
+MIT
