@@ -36,8 +36,9 @@
   },
   "keywords": [
     "ember-addon",
-    "icon fonts",
-    "fontello"
+    "fontello",
+    "icon",
+    "fonts"
   ],
   "ember-addon": {
     "configPath": "tests/dummy/config"
